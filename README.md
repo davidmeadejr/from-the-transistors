@@ -1,3 +1,4 @@
+*Original cc: George Hotz's [From the Transistor](https://github.com/geohot/fromthetransistor) project.*
 
 # From Transistor to Web Browser: 
 
